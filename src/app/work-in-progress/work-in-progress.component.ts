@@ -7,7 +7,7 @@ const PORTFOLIO_VIDEOS = [
     url: 'https://youtu.be/uMt_jbFHErk',
   },
   {
-    desc: 'my nervous presentation showcasing my optimal scheduler visualiser?',
+    desc: 'my nervous presentation showcasing my optimal scheduler?',
     url: 'https://youtu.be/Q5lqypOCKME',
   },
   {
