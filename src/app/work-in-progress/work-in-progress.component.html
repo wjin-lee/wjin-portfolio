@@ -27,9 +27,10 @@
       In the meantime, why not check out
       <a
         class="inline-block link"
-        [href]="PORTFOLIO_ITEMS[portfolioIdx].url"
         [@rise]="riseAnimState"
         (@rise.done)="riseAnimState = 'end'"
+        [href]="PORTFOLIO_ITEMS[portfolioIdx].url"
+        target="_blank"
         >{{ PORTFOLIO_ITEMS[portfolioIdx].desc }}</a
       >
       ?

@@ -20,8 +20,24 @@ export class WorkInProgressComponent implements OnDestroy {
       url: 'https://youtu.be/Q5lqypOCKME',
     },
     {
+      desc: 'this virtual patient simulator project I am leading',
+      url: 'https://github.com/UoaWDCC/VPS',
+    },
+    {
       desc: 'this video of my Android app for buying keyboards',
       url: 'https://youtu.be/DYlfKqbS_3g',
+    },
+    {
+      desc: 'my take on a custom file system',
+      url: 'https://github.com/wjin-lee/custom-filesystem',
+    },
+    {
+      desc: 'my janky (but free) Wake-on-Lan solution',
+      url: 'https://github.com/wjin-lee/mirus-wol-server',
+    },
+    {
+      desc: 'my traffic sign detection model',
+      url: 'https://github.com/uoa-ai-team-1/jetbot-autonomous-driving',
     },
     {
       desc: 'this demo of my highschool scholarship submission',
