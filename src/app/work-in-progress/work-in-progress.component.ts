@@ -3,15 +3,15 @@ import { getRandomInt } from '../common/utils/random';
 
 const PORTFOLIO_VIDEOS = [
   {
-    desc: 'this demo of my highschool scholarship submission?',
+    desc: 'this demo of my highschool scholarship submission',
     url: 'https://youtu.be/uMt_jbFHErk',
   },
   {
-    desc: 'my nervous presentation showcasing my optimal scheduler?',
+    desc: 'my nervous presentation showcasing my optimal task scheduler',
     url: 'https://youtu.be/Q5lqypOCKME',
   },
   {
-    desc: 'this video for my Android app for buying keyboards?',
+    desc: 'this video of my Android app for buying keyboards',
     url: 'https://youtu.be/DYlfKqbS_3g',
   },
 ];

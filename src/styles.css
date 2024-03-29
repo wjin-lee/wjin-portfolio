@@ -12,18 +12,16 @@ body {
 }
 
 /* FONTS */
+
+/* MonaSans - licensed under OFL. See https://github.com/github/mona-sans/blob/main/LICENSE */
 @font-face {
   font-family: "MonaSans";
-  src: url("./assets/fonts/MonaSans.woff2") format("woff2");
+  src: url("./assets/fonts/mona-sans/MonaSans.woff2") format("woff2");
 }
 
 /* GLOBAL CLASSES */
 .topographic {
   background-image: url("./assets/images/topo_square.png");
-}
-
-.clip-child {
-  clip-path: inset(0);
 }
 
 .link {
