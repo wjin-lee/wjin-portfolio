@@ -28,3 +28,7 @@ body {
   color: #2bbffd;
   cursor: pointer;
 }
+
+.link:hover {
+  color: #66d1ff;
+}

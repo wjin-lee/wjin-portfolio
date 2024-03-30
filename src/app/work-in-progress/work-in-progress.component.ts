@@ -1,7 +1,7 @@
 import { Component, OnDestroy } from '@angular/core';
 import { riseAnimation } from '../common/animations/rise.animation';
 
-const PORTFOLIO_ITEM_LIFE_MS = 5000;
+const PORTFOLIO_ITEM_LIFE_MS = 4000;
 
 @Component({
   selector: 'app-work-in-progress',
